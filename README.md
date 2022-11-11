@@ -21,7 +21,7 @@ requirements for Data Structures and Algorithms course at Kathmandu University, 
 - Selection sort
 ## Authors
 - [@Kriti Gautam](https://www.github.com/15gk)
-- [@Nissam Ghimire](https://github.com/nishamghimire5)
+- [@Nisham Ghimire](https://github.com/nishamghimire5)
 - [@Prasiddhi Dahal](https://www.github.com/Prasiddhidahal)
 - [@Saral Sainju](https://www.github.com/prg6useless)
 - [@Shubham Shakya](https://www.github.com/suwubham)
